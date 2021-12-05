@@ -9,7 +9,7 @@ namespace Labb_5_Generic_class
             StringCheck<string> Stringchecker = new StringCheck<string>();
             
             Stringchecker.ToCheck("Anas", "Anas");
-            Stringchecker.ToCheck("Anas", "Annanas");
+            Stringchecker.ToCheck("Anas", "Ananas");
 
             IntCheck<int> Intchecker = new IntCheck<int>();
 
